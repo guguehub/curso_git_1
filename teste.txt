@@ -1,6 +1,18 @@
 testando repo 1
+<<<<<<< HEAD
 
 a
 b
 c
 d
+=======
+<<<<<<< HEAD
+=======
+
+1
+
+2
+
+3
+>>>>>>> teste_criacao_2
+>>>>>>> main
