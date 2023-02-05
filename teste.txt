@@ -1,1 +1,10 @@
 testando repo 1
+<<<<<<< HEAD
+=======
+
+1
+
+2
+
+3
+>>>>>>> teste_criacao_2
